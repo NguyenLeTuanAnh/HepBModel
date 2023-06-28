@@ -1,6 +1,7 @@
 # HepBModel
 
 A detailed description of the model structure and parameters can be found in the published paper: https://pubmed.ncbi.nlm.nih.gov/31419332/
+
 In addition, Ben Cowie's thesis also contains details of the original study and data used – some of which is still in use within the current model: https://minerva-access.unimelb.edu.au/items/372f724d-24ac-5152-8a62-fadec1366b94
 
 Contained within the file "Inputs" are all the necessary inputs to execute the model. Provided below are the required Matlab functions to perform a single simulation of the model
